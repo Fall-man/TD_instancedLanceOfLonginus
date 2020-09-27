@@ -1,7 +1,7 @@
 # TD_instancedLanceOfLonginus
 
 ## Capture
-[Caputured GIF](./Movie/GIF/mov.gif)
+![Caputured GIF](./Movie/GIF/mov.gif)
 
 ## Imported TOX component
 `Bloom_ver3` thanks to Satoru Higa
